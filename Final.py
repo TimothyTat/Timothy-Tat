@@ -2,14 +2,13 @@ import numpy as np
 import streamlit as st
 import pydeck as pdk
 import pandas as pd
-import mapbox as mb
 import matplotlib.pyplot as plt
 
 #
 # Name: Your Name
 # CS230: Section SN5
 # Data: Earthquake
-# URL: Link to your web application online (see extra credit)
+# URL: https://share.streamlit.io/timothytat/timothy-tat/main/Final.py
 #
 # Description: This program ... (a few sentences about your program and the queries and charts)
 #
