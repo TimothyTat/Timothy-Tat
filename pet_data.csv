@@ -1,0 +1,51 @@
+﻿State,percAllPets,percDogOwners,percCatOwners,State2
+Wyoming,0.718,0.36,0.3,WY
+West Virginia,0.71,0.496,0.377,WV
+Vermont,0.7,0.283,0.446,VT
+Idaho,0.7,0.333,0.344,ID
+Indiana,0.692,0.494,0.375,IN
+Arkansas,0.69,0.516,0.348,AR
+Mississippi,0.655,0.51,0.291,MS
+Oklahoma,0.65,0.477,0.284,OK
+Kentucky,0.641,0.465,0.322,KY
+North Dakota,0.637,0.443,0.248,ND
+Missouri,0.635,0.451,,MO
+Maine,0.635,0.359,0.436,ME
+Washington,0.63,0.428,0.305,WA
+Kansas,0.628,0.431,0.324,KS
+Ohio,0.624,0.379,0.307,OH
+Michigan,0.624,0.419,0.312,MI
+South Carolina,0.62,0.453,0.252,SC
+Montana,0.62,0.519,0.228,MT
+Tennessee,0.617,0.47,0.309,TN
+Pennsylvania,0.606,0.389,0.289,PA
+New Mexico,0.6,0.394,0.252,NM
+Alabama,0.598,0.469,0.261,AL
+Oregon,0.592,0.378,0.3,OR
+Wisconsin,0.59,0.336,0.324,WI
+North Carolina,0.59,0.413,0.265,NC
+Iowa,0.59,0.363,0.356,IA
+Utah,0.585,0.362,0.247,UT
+Texas,0.582,0.434,0.205,TX
+Arizona,0.58,0.43,0.264,AZ
+Delaware,0.579,0.422,0.241,DE
+Florida,0.56,0.398,0.242,FL
+Virginia,0.555,0.356,0.239,VA
+Minnesota,0.54,0.355,0.265,MN
+Louisiana,0.54,0.383,0.19,LA
+Nevada,0.53,0.368,0.231,NV
+New Hampshire,0.52,0.237,0.364,NH
+Nebraska,0.513,0.471,0.309,NE
+Georgia,0.51,0.367,0.204,GA
+New York,0.5,0.27,0.211,NY
+Connecticut,0.5,0.24,0.267,CT
+Massachusetts,0.49,0.289,0.235,MA
+Maryland,0.486,0.302,0.186,MD
+Illinois,0.486,0.324,0.21,IL
+New Jersey,0.474,0.291,0.189,NJ
+Colorado,0.472,0.271,,CO
+South Dakota,0.46,0.321,0.266,SD
+Rhode Island,0.454,0.258,0.167,RI
+California,0.401,,0.229,CA
+Hawaii,,,,HI
+Alaska,,,,AK
